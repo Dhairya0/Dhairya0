@@ -10,7 +10,7 @@
 I'm a passionate mobile app developer with expertise in Java, Flutter, Kotlin and Swift. Having programming knowledge of C, C++, Python and React.JS. I've worked as an intern to develope the responsive and dynamic application that are intuitive and user-friendly. My proficiency in React allows me to develop scalable and efficient web applications that can handle complex business logic and data. Constant learner and ability to adapt to new technologies. Possess strong communication and team management skills. 
 
 - 📫 How to reach me **dgajjar5@asu.edu**  / **dhairya9921@gmail.com**
-- 📫 Connect with me: **www.linkedin.com/in/dhairya-gajjar-9667bb193**
+- 📫 Connect with me: **[https://www.linkedin.com/in/dhairyamgajjar/](https://www.linkedin.com/in/dhairyamgajjar/)**
 
 ---
 <h2 align="center">Skills</h2>
